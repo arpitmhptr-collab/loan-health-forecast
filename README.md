@@ -2,7 +2,7 @@
 
 **Question:** How healthy is a mortgage portfolio, how many loans will default over the next two years, and where should a lender focus its collections effort?
 
-**Live dashboard:** https://arpitmhptr-collab.github.io/REPO-NAME/ *(replace REPO-NAME with your repository name)*
+**Live dashboard:** https://arpitmhptr-collab.github.io/loan-health-forecast/dashboard/
 
 Data: Fannie Mae Single-Family Loan Performance (Primary dataset), first-quarter acquisition cohorts 2017Q1, 2018Q1, 2019Q1 and 2020Q1, followed monthly through June 2026.
 Scale: 1,972,226 loans and 94.7 million loan-months. Tools: DuckDB and Python on a laptop, one static Plotly page.
